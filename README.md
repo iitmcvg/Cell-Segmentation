@@ -5,9 +5,9 @@ Automated identification of cell boundaries from the pathological video data
 This software is published for academic and non-commerical use only.
 
 # Setup
-This code has been tested on Ubuntu 14.04 LTS
+This code has been tested on Ubuntu 16.04 LTS
 
-Dependancies - Python
+Dependencies - Python,OpenCV
 
 # Usage
 
