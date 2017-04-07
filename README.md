@@ -19,3 +19,4 @@ Dependencies - Python,OpenCV
 4. Structured Forest Algorithm
 
 # Results
+edge.avi is the video of cells after applying structured forest
