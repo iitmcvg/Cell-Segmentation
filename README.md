@@ -32,6 +32,7 @@ The video `edge.avi` is the result after applying Structured Forest algorithm.
 ## References
 
 Our *Structured Forest* is an implementation of [Artanis CV python implementation](https://github.com/ArtanisCV/StructuredForests).
+
 Refer to the above link for the original implementation.
 
 
