@@ -5,7 +5,6 @@ Cell Segmentation
 ## Introduction
 
 This project aims at performing automated identification of cell boundaries from the pathological video data.
-
 We are given the video file `cells.avi` as input. 
 
 
