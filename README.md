@@ -11,7 +11,7 @@ We are given the video file `cells.avi` as input.
 ## Compatibility
 
 * This code has been tested on Ubuntu 16.04 LTS and Windows 10
-* **Dependencies** - Python,OpenCV
+* **Dependencies** - Python 2.7 & 3.5,OpenCV 3.0+
 
 
 ## Methods Used
