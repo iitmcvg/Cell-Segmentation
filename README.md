@@ -1,36 +1,35 @@
-Cell Segmentation
-==================
-
+# Cell Segmentation
 
 ## Introduction
 
 This project aims at performing automated identification of cell boundaries from the pathological video data.
-We are given the video file `cells.avi` as input. 
-
+We are given the video file `cells.avi` as input.
 
 ## Compatibility
 
 * This code has been tested on Ubuntu 16.04 LTS and Windows 10
-* **Dependencies** - Python 2.7 & 3.5,OpenCV 3.0+
-
+* **Dependencies** - Python 2.7 & 3.5, OpenCV 3.0+
 
 ## Methods Used
 
-1. Image Processing followed by Contours
-2. Adaptive Thresholding
-3. Watershed Algorithm
-4. Structured Forest Algorithm
-
+* Image Processing followed by Contours
+* Adaptive Thresholding
+* Watershed Algorithm
+* Structured Forest Algorithm
 
 ## Results
 
-The video `edge.avi` is the result after applying Structured Forest algorithm.
-
+The video `edge.avi` is the result after applying Structured Forest algorithm. Other outputs can be found in the `Outputs` folder.
 
 ## References
 
 Our *Structured Forest* is an implementation of [Artanis CV python implementation](https://github.com/ArtanisCV/StructuredForests).
 
+## Future work
+
+* U-net convolutional neural network can be used.
+
+* Implementing the algorithm given in this [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5096676/).
 
 ## Disclaimer
 
