@@ -6,7 +6,7 @@ import imutils
 import time
 import cv2
 
-cap = cv2.VideoCapture('cells.webm')
+cap = cv2.VideoCapture('../cells.avi')
 fourcc = cv2.VideoWriter_fourcc(*'MPEG')
 out = cv2.VideoWriter('output1.avi',fourcc, 20.0, (640,480))
 
