@@ -3,7 +3,7 @@
 ## Introduction
 
 This project aims at performing automated identification of cell boundaries from the pathological video data.
-We are given the video file `cells.avi` as input.
+We are given the video file `cells.avi` as input. The problem statement can be found [here](https://innovate.mygov.in/challenges/identifying-cell-boundaries-from-video-data/)
 
 ## Compatibility
 
@@ -23,7 +23,7 @@ The video `edge.avi` is the result after applying Structured Forest algorithm. O
 
 ## References
 
-Our *Structured Forest* is an implementation of [Artanis CV python implementation](https://github.com/ArtanisCV/StructuredForests).
+Our *Structured Forest* is an implementation of [Artanis CV python structured forest](https://github.com/ArtanisCV/StructuredForests).
 
 ## Future work
 
