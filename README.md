@@ -3,7 +3,7 @@
 ## Introduction
 
 This project aims at performing automated identification of cell boundaries from the pathological video data.
-We are given the video file `cells.avi` as input. The problem statement can be found [here](https://innovate.mygov.in/challenges/identifying-cell-boundaries-from-video-data/)
+We are given the video file `cells.avi` as input. The problem statement can be found [here.](https://innovate.mygov.in/challenges/identifying-cell-boundaries-from-video-data/)
 
 ## Compatibility
 
