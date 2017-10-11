@@ -7,7 +7,7 @@ import time
 import cv2
 
 cap = cv2.VideoCapture('../cells.avi')
-fourcc = cv2.VideoWriter_fourcc(*'MPEG')
+fourcc = cv2.VideoWriter_fourcc(*'MJPG')
 out = cv2.VideoWriter('output1.avi',fourcc, 20.0, (640,480))
 
 while True:
@@ -76,8 +76,8 @@ while True:
         dilation = cv2.drawContours(frame1, contours, -1, (0,255,0), 3)
         
        
-        cv2.imshow('frame',dilation)
-        #out.write(res_blue_gray)
+        cv2.imshow('output',dilation)
+        out.write(dilation)
 
         if cv2.waitKey(40) & 0xFF == ord('q'):
             break
