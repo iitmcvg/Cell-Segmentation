@@ -17,6 +17,14 @@ We are given the video file `cells.avi` as input. The problem statement can be f
 * Watershed Algorithm
 * [Structured Forest](https://pdollar.github.io/files/papers/DollarPAMI15edges.pdf) Algorithm
 
+## Usage
+
+### Structured Forest
+
+* First execute `python framesaver.py` to save the frames for structured forest.
+* Next execute `python StructuredForests.py` to apply the edge detection.
+* Finally, execute `python videowriter.py` to write the outputs to a video file.
+
 ## Results
 
 The video `edge.avi` is the result after applying Structured Forest algorithm. Other outputs can be found in the `Outputs` folder.
