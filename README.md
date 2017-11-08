@@ -19,6 +19,8 @@ We are given the video file `cells.avi` as input. The problem statement can be f
 
 ## Usage
 
+First clone the repository by typing: `git clone https://github.com/iitmcvg/Cell-Segmentation.git`.
+
 ### Structured Forest
 
 * First execute `python framesaver.py` to save the frames for structured forest.
