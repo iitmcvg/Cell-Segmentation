@@ -29,11 +29,12 @@ First clone the repository by typing: `git clone https://github.com/iitmcvg/Cell
 
 ## Results
 
-The video `edge.avi` is the result after applying Structured Forest algorithm. Other outputs can be found in the `Outputs` folder.
+* The video `edge.avi` is the result after applying Structured Forest algorithm. Other outputs can be found in the `Outputs` folder.
+* Outputs of all methods can be seen at once in [this](https://drive.google.com/file/d/1mmDtpkT1wQzZ-aafKzgkFz4BpQd9eV88/view?usp=sharing) video.
 
 ## References
 
-Our *Structured Forest* is an implementation of [Artanis CV python structured forest](https://github.com/ArtanisCV/StructuredForests).
+Our *Structured Forest* is an implementation of [Artanis CV Structured Forest](https://github.com/ArtanisCV/StructuredForests).
 
 ## Future work
 
