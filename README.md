@@ -15,7 +15,7 @@ We are given the video file `cells.avi` as input. The problem statement can be f
 * Image Processing followed by Contours
 * Adaptive Thresholding
 * Watershed Algorithm
-* [Structured Forest](https://pdollar.github.io/files/papers/DollarPAMI15edges.pdf) Algorithm
+* [Structured Forests for Fast Edge Detection](https://pdollar.github.io/files/papers/DollarPAMI15edges.pdf)
 
 ## Usage
 
